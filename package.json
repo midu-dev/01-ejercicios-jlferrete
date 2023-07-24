@@ -1,0 +1,22 @@
+{
+  "name": "ejercicios-nodejs",
+  "version": "1.0.0",
+  "description": "ejercicios-nodejs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midu-dev/01-ejercicios-jlferrete.git"
+  },
+  "author": "jlferrete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/midu-dev/01-ejercicios-jlferrete/issues"
+  },
+  "homepage": "https://github.com/midu-dev/01-ejercicios-jlferrete#readme"
+}
